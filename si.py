@@ -1,1 +1,2 @@
-print("Simple Interst")
+print(print("Simple Interst")
+      print("Compound Interest")
